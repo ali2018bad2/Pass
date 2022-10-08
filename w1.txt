@@ -1,0 +1,5 @@
+api/android/device?username=vip27434&device_id=f2b1e3121d27274b&device_model=YAL-L21
+api/android/device?username=vip25663&device_id=f2b1e3121d27274b&device_model=YAL-L21
+api/android/device?username=vip78220&device_id=f2b1e3121d27274b&device_model=YAL-L21
+api/android/device?username=vip12033&device_id=f2b1e3121d27274b&device_model=YAL-L21
+api/android/device?username=vip99999&device_id=f2b1e3121d27274b&device_model=YAL-L21
